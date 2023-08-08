@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>My.OwnModule.Powershell</id>
+    <version>0.1.0</version>
+    <authors>uladzislau_dadzimau@epam.com</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>images\icon.png</icon>
+    <description>
+      There is no any description available at this time. Sorry for that.
+    </description>
+    <releaseNotes>Initial release.</releaseNotes>
+  </metadata>
+</package>
