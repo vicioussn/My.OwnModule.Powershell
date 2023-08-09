@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>My.OwnModule.Powershell</id>
-    <version>0.0.2</version>
+    <version>0.0.4</version>
     <authors>uladzislau_dadzimau@epam.com</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <icon>images\icon.png</icon>
@@ -10,5 +10,6 @@
       There is no any description available at this time. Sorry for that.
     </description>
     <releaseNotes>Initial release.</releaseNotes>
+    <tags>PSEdition_Core PSEdition_Desktop Linux Mac PSModule PSIncludes_Cmdlet</tags>
   </metadata>
 </package>
